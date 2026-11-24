@@ -4,7 +4,7 @@ I build Windows desktop software. Mostly C# with .NET (WPF and WinForms), Rust w
 program has to be fast or self-contained, and Python for small tools.
 
 Based in Pamplona, Navarra (Spain). Looking for a role where C#, Rust or Python is the
-main language, on desktop, tooling or systems software.
+main language, on desktop, backend or tooling.
 
 ## Projects
 
@@ -25,6 +25,16 @@ instead of shipped as images. C# and WinForms, single executable.
 **[Secure Password Generator](https://github.com/SoyAntonioJimenez/Secure-Password-Generator)**
 and **[Shutdownator 3000](https://github.com/SoyAntonioJimenez/Shutdownator3000-Apagator3000)**
 are two Python/tkinter utilities from 2023.
+
+## Training
+
+- **Introduction to Big Data with Hadoop and Power BI** — 20 h, 2024.
+- **Web Programming and Design** (IFCT031PO) — 210 h, 2023.
+- **Microsoft SQL Server** (IFCT069PO) — 45 h, 2023.
+- **Computer Systems Operation** (IFCT0210) — 540 h, 2022, level 2 certificate of
+  professional competence.
+- **Web Software Integration** (MF0951_2) — 210 h, 2021, level 2 certificate of
+  professional competence.
 
 ## Tools
 
