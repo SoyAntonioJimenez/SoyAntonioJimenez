@@ -26,6 +26,14 @@ instead of shipped as images. C# and WinForms, single executable.
 and **[Shutdownator 3000](https://github.com/SoyAntonioJimenez/Shutdownator3000-Apagator3000)**
 are two Python/tkinter utilities from 2023.
 
+## Abynth Audio
+
+I also publish audio software under [Abynth Audio](https://github.com/AbynthAudio).
+[CarveSpace](https://github.com/AbynthAudio/CarveSpace) is a 32-band spectral sidechain
+carver: a native VST3 plugin in C++ that analyses a sidechain signal and ducks the
+matching frequencies in the track it is inserted on, so two sounds can share the same
+range without fighting. Zero latency, GPLv3, for Linux, Windows and macOS.
+
 ## Training
 
 - **Introduction to Big Data with Hadoop and Power BI** — 20 h, 2024.
